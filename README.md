@@ -15,7 +15,7 @@ This application is developed on the basis of vosk, implementing **real-time bil
 You need to prepare these stuffs in advance:
 
 - 🐍Available Python Environments (**Python >= 3.6**)
-  - **WE RECOMMEND Python 3.9** !
+  - **WE RECOMMEND Python 3.9!**
 - 🪟Windows Operating Systems
   - **Maybe in MacOS works.** (I don't have a Macbook. 🤑)
 - 🎙️Available Micro devices.
