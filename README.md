@@ -2,7 +2,7 @@
 
 ## 😊Introduction
 
-**[Vosk](https://alphacephei.com/vosk/index)** is an open source **speech recognition** toolkit focused on providing efficient and accurate speech-to-text functionality. It is based on Kaldi (another famous speech recognition toolkit), but compared to Kaldi, Vosk is more **lightweight** and easy to use, and is suitable for embedding into various applications.
+**[Vosk](https://alphacephei.com/vosk/index)** is an open source **speech recognition** toolk. It focused on providing efficient and accurate speech-to-text functionality. It is based on Kaldi (another famous speech recognition toolkit), but compared to Kaldi, Vosk is more **lightweight** and easy to use, and is suitable for embedding into various applications.
 
 This application is developed on the basis of vosk, implementing **real-time bilingual speech-to-text function**.
 
